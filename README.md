@@ -1,2 +1,4 @@
-# jot-infrastructure
-Infrastructure for Jot application
+# <Name of the repository>
+<description>
+
+<Instructions>
