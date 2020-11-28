@@ -1,4 +1,4 @@
-# <Name of the repository>
-<description>
+# --Name of the repository--
+--Description--
 
-<Instructions>
+--Instructions--
