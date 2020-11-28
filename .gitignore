@@ -265,3 +265,7 @@ cdk.out
 
 # github
 /.github
+
+# IDE
+/.idea
+/.vscode
