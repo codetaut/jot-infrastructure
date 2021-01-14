@@ -259,7 +259,6 @@ yarn-error.log*
 # CDK asset staging directory
 .cdk.staging
 cdk.out
-cdk.context.json
 
 # Parcel default cache directory
 .parcel-cache
@@ -270,3 +269,5 @@ cdk.context.json
 # IDE
 /.idea
 /.vscode
+/.fun
+/.layer
