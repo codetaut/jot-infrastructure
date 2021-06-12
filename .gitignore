@@ -270,7 +270,6 @@ cdk.out
 /.layer
 
 # cdk
-*.js
 !jest.config.js
 *.d.ts
 node_modules
